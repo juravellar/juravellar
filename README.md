@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###### Sobre o Pedro
+###### Sobre mim
 A programmer in development
 
 ### Detalhes
