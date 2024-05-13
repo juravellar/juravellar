@@ -1,4 +1,4 @@
-### Hi Júllia here 👋
+### Hello, Júllia here 👋
 
 ### About me
 A Brazilian programmer in development
