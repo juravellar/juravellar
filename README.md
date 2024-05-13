@@ -10,6 +10,7 @@ A Brazilian programmer in development
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juravellar&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
+### GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=juravellar&show_icons=true&theme=bear&hide_title=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats&hide_title=true&hide=stars)
 
 ### Daily usage technologies
