@@ -10,6 +10,7 @@ A Brazilian programmer in development
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=juravellar&repo=doutor-agenda&theme=dracula)](https://github.com/juravellar/doutor-agenda)
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=juravellar&repo=TikTok-Project&theme=dracula)](https://github.com/juravellar/TikTok-Project)
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=juravellar&repo=AlgaWorksContatos&theme=dracula)](https://github.com/juravellar/AlgaWorksContatos)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=juravellar&repo=to-do-list-original&theme=dracula)](https://github.com/juravellar/to-do-list-original)
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=juravellar&repo=sisweb_estevao_n2&theme=dracula)](https://github.com/juravellar/sisweb_estevao_n2)
 
 [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juravellar&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
