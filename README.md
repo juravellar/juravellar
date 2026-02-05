@@ -6,7 +6,7 @@ A Brazilian programmer in development
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAllia-r-de-avellar/)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juravellar/)[![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/J-llia-R-de-Avellar)
 
 ### Projects
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=juravellar&repo=sistema-cadastro)](https://github.com/juravellar/sistema-cadastro))
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=juravellar&repo=sistema-cadastro&theme=dracula)](https://github.com/juravellar/sistema-cadastro))
 
 [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juravellar&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juravellar&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
