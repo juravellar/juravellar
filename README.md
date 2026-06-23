@@ -14,6 +14,7 @@ A Brazilian programmer in development
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=juravellar&repo=sisweb_estevao_n2&theme=dracula)](https://github.com/juravellar/sisweb_estevao_n2)
 
 ### GitHub Stats
+[![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juravellar&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juravellar&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juravellar&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
