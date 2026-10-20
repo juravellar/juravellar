@@ -19,7 +19,7 @@ I currently work as a full stack developer at Webbex, and in my own projects I b
 | [**Sistema de Cadastro**](https://github.com/juravellar/sistema-cadastro) | User registration and authentication with an admin panel, Docker Compose and CI | Node.js, Express, React, PostgreSQL, Docker, GitHub Actions |
 | [**Portfolio**](https://github.com/juravellar/meu-portifolio) · [live](https://portifolio-jullia-r-de-avellar.vercel.app) | My personal portfolio website | HTML, CSS, JavaScript, Vercel |
 | [**VenueWizard**](https://github.com/juravellar/VenueWizard) | REST API for registering venues, with dynamic filters, auditing, Swagger and Docker | Java 17, Spring Boot, Docker |
-| [**To-do List**](https://github.com/juravellar/to-do-list) | REST API for task management with CRUD, filters and DTOs | Java 17, Spring Boot, PostgreSQL |
+| [**To-do List**](https://github.com/juravellar/to-do-list) | Task management REST API built with Clean Architecture (use cases, gateways and domain) | Java 17, Spring Boot, JPA, MySQL |
 | [**TikTok Clone**](https://github.com/juravellar/TikTok-Project) | TikTok video feed interface | React, JavaScript |
 
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=juravellar&repo=doutor-agenda&theme=dracula)](https://github.com/juravellar/doutor-agenda)
